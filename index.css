@@ -44,7 +44,7 @@ nav ul li:hover{
     color: cornflowerblue;
     text-decoration: underline;
 }
-nav ul li p{
+nav ul li a{
     display: flex;
 }
 nav ul li ul{
