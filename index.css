@@ -81,7 +81,7 @@ main{
 .pie-recipe{
     grid-column: 1/3;
     grid-row: 1/span 3;
-    background: url(lemon.jpg) no-repeat center/cover;
+    background: url(./lemon.jpg) no-repeat center/cover;
     border-radius: 30px;
     height: 100%;
     margin:auto;
