@@ -47,7 +47,7 @@ ul, ol{
     padding-left:2rem ;
 }
 ul li{
-    list-style-image: url(/pie_icon.gif);
+    list-style-image: url(pie_icon.gif);
 }
 blockquote{
     background-color: #FFFFA8;
